@@ -4,7 +4,8 @@
 
 [![Location Finder by Samudraneel Sarkar](https://img.youtube.com/vi/2fnCCudjtEw/0.jpg)](https://www.youtube.com/watch?v=2fnCCudjtEw)
 
-Click on the image above or this URL - https://youtu.be/2fnCCudjtEw
+
+Click on the image above or on this URL - https://youtu.be/2fnCCudjtEw
 
 ## Description:
 
