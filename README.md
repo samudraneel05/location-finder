@@ -2,6 +2,8 @@
 
 ## Video Demo:  <URL https://youtu.be/2fnCCudjtEw>
 
+[![Location Finder by Samudraneel Sarkar](https://img.youtube.com/vi/2fnCCudjtEw/0.jpg)](https://www.youtube.com/watch?v=2fnCCudjtEw)
+
 ## Description:
 
 A web application that accepts Latitude and Longitude co-ordinates and displays the corresponding address. Libraries and modules used include geopy, css from w3schools and bootstrap, and CSV file information is handled in the project.
